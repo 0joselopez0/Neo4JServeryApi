@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
+     xmlns:atom="http://www.w3.org/2005/Atom">
+    <Document>
+        <name>Base de Datos Ciudad - Ayuntamiento de Madrid</name>
+        <description>Sólo contiene datos dentro del municipio de Madrid </description>
+        <visibility>1</visibility>
+        <open>1</open> 
+        <Folder>
+	<name>Metro</name>
+	<description>Sólo contiene datos dentro del municipio de Madrid</description>
+<Placemark> <Point> <coordinates> -3.6452252835565764,
+40.389768700352434 </coordinates> </Point><name>1 ALTO DEL ARENAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7033178070796913,
+40.45033105413335 </coordinates> </Point><name>1 ALVARADO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6993757416732405,
+40.41246302818812 </coordinates> </Point><name>1 ANTON MARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.692490883566612,
+40.408846792956474 </coordinates> </Point><name>1 ATOCHA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.689379993715528,
+40.406586090726144 </coordinates> </Point><name>1 ATOCHA RENFE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6763772762447107,
+40.47680705593772 </coordinates> </Point><name>1 BAMBU</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.702188295886296,
+40.42904963582931 </coordinates> </Point><name>1 BILBAO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6539143400014304,
+40.39155774604133 </coordinates> </Point><name>1 BUENOS AIRES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.682593278115451,
+40.4720227901636 </coordinates> </Point><name>1 CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.618850584099445,
+40.37238110745017 </coordinates> </Point><name>1 CONGOSTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7039784766540205,
+40.446966678007556 </coordinates> </Point><name>1 CUATRO CAMINOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.703028749396468,
+40.454278749227846 </coordinates> </Point><name>1 ESTRECHO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7018113638489942,
+40.420006857388664 </coordinates> </Point><name>1 GRAN VIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.698983453377392,
+40.43491591143403 </coordinates> </Point><name>1 IGLESIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6134711039363103,
+40.37018451188382 </coordinates> </Point><name>1 LA GAVIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5995338882203147,
+40.36322145811309 </coordinates> </Point><name>1 LAS SUERTES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6809909455285403,
+40.404446601213934 </coordinates> </Point><name>1 MENENDEZ PELAYO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6395112253862365,
+40.38731392982777 </coordinates> </Point><name>1 MIGUEL HERNANDEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6641453517860403,
+40.395535508762855 </coordinates> </Point><name>1 NUEVA NUMANCIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.675137363680283,
+40.40125568071223 </coordinates> </Point><name>1 PACIFICO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6668070437216325,
+40.48013291749131 </coordinates> </Point><name>1 PINAR DE CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.689182340661554,
+40.466893623466774 </coordinates> </Point><name>1 PLAZA DE CASTILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.658685211486692,
+40.392656804760804 </coordinates> </Point><name>1 PORTAZGO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6690617034429036,
+40.3981918732199 </coordinates> </Point><name>1 PUENTE DE VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7013322873211663,
+40.4419737585179 </coordinates> </Point><name>1 RIOS ROSAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.624724516699161,
+40.38216046446645 </coordinates> </Point><name>1 SIERRA DE GUADALUPE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7032639472488222,
+40.416871893770455 </coordinates> </Point><name>1 SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.69825834158428,
+40.46055088842156 </coordinates> </Point><name>1 TETUAN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.704666474578768,
+40.41234081319718 </coordinates> </Point><name>1 TIRSO DE MOLINA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.701109289546837,
+40.426182305029535 </coordinates> </Point><name>1 TRIBUNAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6950664665123973,
+40.46441695832889 </coordinates> </Point><name>1 VALDEACEDERAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.593169836651139,
+40.36006503137792 </coordinates> </Point><name>1 VALDECARROS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.621308015889596,
+40.37959325302986 </coordinates> </Point><name>1 VILLA DE VALLECAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.696441598173451,
+40.42852583791778 </coordinates> </Point><name>10A ALONSO MARTINEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7839254186800275,
+40.38363227128295 </coordinates> </Point><name>10A AVIACION ESPAÑOLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.75311658343704,
+40.4078551777336 </coordinates> </Point><name>10A BATAN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6858519004423416,
+40.480408856012424 </coordinates> </Point><name>10A BEGOÑA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7610192808902423,
+40.40319981212787 </coordinates> </Point><name>10A CASA DE CAMPO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.682594007873076,
+40.47209485756391 </coordinates> </Point><name>10A CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.774618016060599,
+40.39697434800015 </coordinates> </Point><name>10A COLONIA JARDIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.791525479765706,
+40.377697576926536 </coordinates> </Point><name>10A CUATRO VIENTOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.689862379719021,
+40.458421129185616 </coordinates> </Point><name>10A CUZCO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6928338396454277,
+40.49507880631472 </coordinates> </Point><name>10A FUENCARRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.691275897641476,
+40.437529826448035 </coordinates> </Point><name>10A GREGORIO MARAÑON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.80720227856311,
+40.34984121597005 </coordinates> </Point><name>10A JOAQUIN VILUMBRALES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7356377170839976,
+40.41640917765352 </coordinates> </Point><name>10A LAGO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6924180862691784,
+40.446577042902604 </coordinates> </Point><name>10A NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.689087980611291,
+40.46689418605669 </coordinates> </Point><name>10A PLAZA DE CASTILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.709704711212932,
+40.42408480996496 </coordinates> </Point><name>10A PLAZA DE ESPAÑA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7203286660042627,
+40.42102810708947 </coordinates> </Point><name>10A PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.812116233154177,
+40.34523919601582 </coordinates> </Point><name>10A PUERTA DEL SUR</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6903820686972306,
+40.4515802047538 </coordinates> </Point><name>10A SANTIAGO BERNABEU</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6952099494181434,
+40.50119961127806 </coordinates> </Point><name>10A TRES OLIVOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.702085714804753,
+40.42598718985573 </coordinates> </Point><name>10A TRIBUNAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.635133826137124,
+40.55441858507977 </coordinates> </Point><name>10B BAUNATAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.611465758862776,
+40.55976240170775 </coordinates> </Point><name>10B HOSPITAL INFANTA SOFIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.658599532025724,
+40.527593933186594 </coordinates> </Point><name>10B LA GRANJA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.635571004361775,
+40.53194806540319 </coordinates> </Point><name>10B LA MORALEJA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.669446787174648,
+40.50832462832863 </coordinates> </Point><name>10B LAS TABLAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.646883386851369,
+40.55047958861559 </coordinates> </Point><name>10B MANUEL DE FALLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.637392614740866,
+40.54101897935838 </coordinates> </Point><name>10B MARQUES DE LA VALDAVIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6957592776154744,
+40.50525031559373 </coordinates> </Point><name>10B MONTECARMELO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6234033337323037,
+40.550374439557125 </coordinates> </Point><name>10B REYES CATOLICOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6627782604253585,
+40.51553415823411 </coordinates> </Point><name>10B RONDA DE LA COMUNICACION</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6952099494181434,
+40.50119961127806 </coordinates> </Point><name>10B TRES OLIVOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.72791115890327,
+40.38082723882115 </coordinates> </Point><name>11 ABRANTES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.751916263742287,
+40.37199788960605 </coordinates> </Point><name>11 CARABANCHEL ALTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.777833779671177,
+40.357952459398284 </coordinates> </Point><name>11 LA FORTUNA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.756906023990758,
+40.364217512605684 </coordinates> </Point><name>11 LA PESETA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7341716784290124,
+40.37585968805198 </coordinates> </Point><name>11 PAN BENDITO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7182557200044104,
+40.384599358863206 </coordinates> </Point><name>11 PLAZA ELIPTICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.73910622280992,
+40.37359399926437 </coordinates> </Point><name>11 SAN FRANCISCO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8317801693487046,
+40.35008148769783 </coordinates> </Point><name>12 ALCORCON CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.736641503588036,
+40.30080675005403 </coordinates> </Point><name>12 ALONSO DE MENDOZA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7568280496874342,
+40.28873924742738 </coordinates> </Point><name>12 ARROYO CULEBRO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.759428416851752,
+40.32659685107382 </coordinates> </Point><name>12 CASA DEL RELOJ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.745771718182202,
+40.29324358021325 </coordinates> </Point><name>12 CONSERVATORIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.729638476861858,
+40.32906791420299 </coordinates> </Point><name>12 EL BERCIAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7401861342319944,
+40.33663165911443 </coordinates> </Point><name>12 EL CARRASCAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7098585802082673,
+40.318623218355846 </coordinates> </Point><name>12 EL CASAR</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7989093691460076,
+40.282672409397556 </coordinates> </Point><name>12 FUENLABRADA CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7340338202855166,
+40.309922620744835 </coordinates> </Point><name>12 GETAFE CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8164270663524102,
+40.28574839354916 </coordinates> </Point><name>12 HOSPITAL DE FUENLABRADA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.874715028557068,
+40.316521121799106 </coordinates> </Point><name>12 HOSPITAL DE MOSTOLES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.767978430492755,
+40.321765545104476 </coordinates> </Point><name>12 HOSPITAL SEVERO OCHOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7222501498250757,
+40.31179862923095 </coordinates> </Point><name>12 JUAN DE LA CIERVA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7526680248676763,
+40.33474027119545 </coordinates> </Point><name>12 JULIAN BESTEIRO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7715445639008855,
+40.32897617044243 </coordinates> </Point><name>12 LEGANES CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8376919076087863,
+40.29680381534007 </coordinates> </Point><name>12 LORANCA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.718203881803276,
+40.324220465768875 </coordinates> </Point><name>12 LOS ESPARTALES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8640269901997684,
+40.30902475575621 </coordinates> </Point><name>12 MANUELA MALASAÑA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8635454330290497,
+40.32849709580309 </coordinates> </Point><name>12 MOSTOLES CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7869823082521563,
+40.28683532541408 </coordinates> </Point><name>12 PARQUE DE LOS ESTADOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8063265863569726,
+40.28517056325265 </coordinates> </Point><name>12 PARQUE EUROPA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.821201088983314,
+40.34967960379551 </coordinates> </Point><name>12 PARQUE LISBOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8493434114365463,
+40.345890739787706 </coordinates> </Point><name>12 PARQUE OESTE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8648944898656326,
+40.32167611681609 </coordinates> </Point><name>12 PRADILLO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.8124952537408796,
+40.345425725501414 </coordinates> </Point><name>12 PUERTA DEL SUR</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7758763365834476,
+40.33615451429297 </coordinates> </Point><name>12 SAN NICASIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.872188547431641,
+40.33511700914022 </coordinates> </Point><name>12 UNIVERSIDAD REY JUAN CARLOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6235144027647195,
+40.418284443909386 </coordinates> </Point><name>2 ALSACIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.612070828457266,
+40.422390661721714 </coordinates> </Point><name>2 AVENIDA DE GUADALAJARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.694966494593289,
+40.41921937328667 </coordinates> </Point><name>2 BANCO DE ESPAÑA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.704337220993404,
+40.43840594045452 </coordinates> </Point><name>2 CANAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7039313107143053,
+40.44696696523524 </coordinates> </Point><name>2 CUATRO CAMINOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6759123759569388,
+40.42453956509611 </coordinates> </Point><name>2 GOYA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6391475841604057,
+40.42361352022292 </coordinates> </Point><name>2 LA ALMUDENA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.650528497343345,
+40.4266131180015 </coordinates> </Point><name>2 LA ELIPA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.603312655422655,
+40.42374301041612 </coordinates> </Point><name>2 LAS ROSAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6692617275650825,
+40.42790259126464 </coordinates> </Point><name>2 MANUEL BECERRA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7074256795634843,
+40.42483751820921 </coordinates> </Point><name>2 NOVICIADO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7094295067152068,
+40.41808648235822 </coordinates> </Point><name>2 OPERA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6801282562882505,
+40.42293825869698 </coordinates> </Point><name>2 PRINCIPE DE VERGARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7043420216216063,
+40.43321671973448 </coordinates> </Point><name>2 QUEVEDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6862547889045016,
+40.420298442434046 </coordinates> </Point><name>2 RETIRO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7055818156463136,
+40.43001095773282 </coordinates> </Point><name>2 SAN BERNARDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.70796634277563,
+40.421311677323516 </coordinates> </Point><name>2 SANTO DOMINGO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.699256777934109,
+40.41804935637811 </coordinates> </Point><name>2 SEVILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.703263665852006,
+40.41684486835466 </coordinates> </Point><name>2 SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.663667689792175,
+40.43088079412545 </coordinates> </Point><name>2 VENTAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.697892329475578,
+40.38409341257691 </coordinates> </Point><name>3 ALMENDRALES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.715975031788373,
+40.430658770692084 </coordinates> </Point><name>3 ARGÜELLES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7056671453961694,
+40.420127531994346 </coordinates> </Point><name>3 CALLAO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.693635291131088,
+40.35957819752743 </coordinates> </Point><name>3 CIUDAD DE LOS ANGELES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6942021511558596,
+40.39989953900073 </coordinates> </Point><name>3 DELICIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.702681992509139,
+40.40511861972591 </coordinates> </Point><name>3 EMBAJADORES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.695855104968134,
+40.37502451461551 </coordinates> </Point><name>3 HOSPITAL 12 DE OCTUBRE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.700914055876501,
+40.4085077475188 </coordinates> </Point><name>3 LAVAPIES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.695125551387507,
+40.391146176794116 </coordinates> </Point><name>3 LEGAZPI</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7194521744896463,
+40.43501556410216 </coordinates> </Point><name>3 MONCLOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6942347260526547,
+40.40307053569799 </coordinates> </Point><name>3 PALOS DE LA FRONTERA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7112064862535563,
+40.423408913087485 </coordinates> </Point><name>3 PLAZA DE ESPAÑA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.693191432961103,
+40.34153553587059 </coordinates> </Point><name>3 SAN CRISTOBAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6941778390976685,
+40.369989491378796 </coordinates> </Point><name>3 SAN FERMIN-ORCASUR</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7032632906568437,
+40.41680883446673 </coordinates> </Point><name>3 SOL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7134142861939377,
+40.427080002151314 </coordinates> </Point><name>3 VENTURA RODRIGUEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.711990993449082,
+40.341223138866916 </coordinates> </Point><name>3 VILLAVERDE ALTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.692651332213546,
+40.350890273928535 </coordinates> </Point><name>3 VILLAVERDE BAJO CRUCE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6679186527610956,
+40.44824371776939 </coordinates> </Point><name>4 ALFONSO XIII</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6959499210637783,
+40.427717986325014 </coordinates> </Point><name>4 ALONSO MARTINEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.715962574409677,
+40.43059578472089 </coordinates> </Point><name>4 ARGÜELLES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6561881225682944,
+40.45582440947207 </coordinates> </Point><name>4 ARTURO SORIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6766487941815313,
+40.438030781889246 </coordinates> </Point><name>4 AVENIDA DE AMERICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6611898359519834,
+40.4535346495725 </coordinates> </Point><name>4 AVENIDA DE LA PAZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7011487682664037,
+40.42884873752132 </coordinates> </Point><name>4 BILBAO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.635600579737649,
+40.46380429988092 </coordinates> </Point><name>4 CANILLAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6910103826094267,
+40.42541427689269 </coordinates> </Point><name>4 COLON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6749645017347072,
+40.43467125423682 </coordinates> </Point><name>4 DIEGO DE LEON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.645820621327798,
+40.45944135187602 </coordinates> </Point><name>4 ESPERANZA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.676858095876717,
+40.4248043033313 </coordinates> </Point><name>4 GOYA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6525796374794783,
+40.47536730266078 </coordinates> </Point><name>4 HORTALEZA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6754163728813944,
+40.429164099118886 </coordinates> </Point><name>4 LISTA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.662905158694452,
+40.476867092844046 </coordinates> </Point><name>4 MANOTERAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6383312545367454,
+40.46941986762225 </coordinates> </Point><name>4 MAR DE CRISTAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6452466617480788,
+40.47711116792567 </coordinates> </Point><name>4 PARQUE DE SANTA MARIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6667716515888267,
+40.48013312167673 </coordinates> </Point><name>4 PINAR DE CHAMARTIN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6748238288203408,
+40.444185596768286 </coordinates> </Point><name>4 PROSPERIDAD</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.705684239874848,
+40.42965898071998 </coordinates> </Point><name>4 SAN BERNARDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6395823502616023,
+40.47446698722932 </coordinates> </Point><name>4 SAN LORENZO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.686637031792093,
+40.42543132477729 </coordinates> </Point><name>4 SERRANO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6829196009024106,
+40.42502991887892 </coordinates> </Point><name>4 VELAZQUEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7066522311398944,
+40.40386919094474 </coordinates> </Point><name>5 ACACIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.587529851420831,
+40.457788368783184 </coordinates> </Point><name>5 ALAMEDA DE OSUNA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.695024407291076,
+40.428282113788335 </coordinates> </Point><name>5 ALONSO MARTINEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.760809652950178,
+40.38562451896221 </coordinates> </Point><name>5 ALUCHE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.705666674745031,
+40.42008248968333 </coordinates> </Point><name>5 CALLAO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7681359752950083,
+40.39480136388358 </coordinates> </Point><name>5 CAMPAMENTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.608164956973511,
+40.44942037767125 </coordinates> </Point><name>5 CANILLEJAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7448816604389195,
+40.387818323852514 </coordinates> </Point><name>5 CARABANCHEL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.761019686701832,
+40.40323584563566 </coordinates> </Point><name>5 CASA DE CAMPO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.69762156530907,
+40.422924115641855 </coordinates> </Point><name>5 CHUECA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.638164089763644,
+40.43804242659882 </coordinates> </Point><name>5 CIUDAD LINEAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.674269288886236,
+40.43235098253979 </coordinates> </Point><name>5 DIEGO DE LEON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5940139675362324,
+40.45346693887937 </coordinates> </Point><name>5 EL CAPRICHO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.657582365367643,
+40.431888543471025 </coordinates> </Point><name>5 EL CARMEN</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7653543590645233,
+40.39056753293377 </coordinates> </Point><name>5 EMPALME</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7512174724118132,
+40.384380915779076 </coordinates> </Point><name>5 EUGENIA DE MONTIJO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7018110830022932,
+40.41997983197915 </coordinates> </Point><name>5 GRAN VIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7081675783047383,
+40.4112743722751 </coordinates> </Point><name>5 LA LATINA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.715963813197224,
+40.39735240863037 </coordinates> </Point><name>5 MARQUES DE VADILLO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.682585355283697,
+40.43277965882792 </coordinates> </Point><name>5 NUÑEZ DE BALBOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7093587881489922,
+40.41808691627398 </coordinates> </Point><name>5 OPERA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.731327675889255,
+40.38846340308106 </coordinates> </Point><name>5 OPORTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7113880737636493,
+40.40259689990526 </coordinates> </Point><name>5 PIRAMIDES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.642834403605827,
+40.43569222122078 </coordinates> </Point><name>5 PUEBLO NUEVO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.711057633812725,
+40.40703138929742 </coordinates> </Point><name>5 PUERTA DE TOLEDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.647365166136872,
+40.43357684329915 </coordinates> </Point><name>5 QUINTANA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6895451263646835,
+40.433152771142865 </coordinates> </Point><name>5 RUBEN DARIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6268474470761722,
+40.44084308870699 </coordinates> </Point><name>5 SUANZES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6170047299183143,
+40.44374289429119 </coordinates> </Point><name>5 TORRE ARIAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.723615630429613,
+40.39334979453965 </coordinates> </Point><name>5 URGEL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6636087459214366,
+40.430881132487954 </coordinates> </Point><name>5 VENTAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7398266451178808,
+40.388841774504186 </coordinates> </Point><name>5 VISTA ALEGRE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7389377724748316,
+40.40991964465942 </coordinates> </Point><name>6 ALTO DE EXTREMADURA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6886414650639274,
+40.39309490002911 </coordinates> </Point><name>6 ARGANZUELA-PLANETARIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7159618100999556,
+40.430523717315026 </coordinates> </Point><name>6 ARGÜELLES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.67658984422362,
+40.43803112692008 </coordinates> </Point><name>6 AVENIDA DE AMERICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.74100000338481,
+40.392699152623656 </coordinates> </Point><name>6 CARPETANA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7267950694327174,
+40.44355521068528 </coordinates> </Point><name>6 CIUDAD UNIVERSITARIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.670409622513099,
+40.40696791355658 </coordinates> </Point><name>6 CONDE DE CASAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.703872353288706,
+40.44696732424279 </coordinates> </Point><name>6 CUATRO CAMINOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.672942968338926,
+40.43294429738587 </coordinates> </Point><name>6 DIEGO DE LEON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7122973578860115,
+40.44635715962408 </coordinates> </Point><name>6 GUZMAN EL BUENO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.744300361169432,
+40.39922754347372 </coordinates> </Point><name>6 LAGUNA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6950549534127397,
+40.39115561025609 </coordinates> </Point><name>6 LEGAZPI</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7453431334630922,
+40.40509472797641 </coordinates> </Point><name>6 LUCERO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.669214574602292,
+40.427902864222176 </coordinates> </Point><name>6 MANUEL BECERRA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6781422464152858,
+40.39537318605325 </coordinates> </Point><name>6 MENDEZ ALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7194323697774476,
+40.446430091202984 </coordinates> </Point><name>6 METROPOLITANO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7194515983734378,
+40.434961513630626 </coordinates> </Point><name>6 MONCLOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.692418456066998,
+40.446613076687676 </coordinates> </Point><name>6 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6685990513216953,
+40.422888390377096 </coordinates> </Point><name>6 O'DONNELL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.723134262030649,
+40.386902306564245 </coordinates> </Point><name>6 OPAÑEL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.731268769862201,
+40.38846377561755 </coordinates> </Point><name>6 OPORTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.673860948285712,
+40.402064934244095 </coordinates> </Point><name>6 PACIFICO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7183735256638144,
+40.38459862707521 </coordinates> </Point><name>6 PLAZA ELIPTICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.720329050360675,
+40.421064140817386 </coordinates> </Point><name>6 PRINCIPE PIO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7272419555741436,
+40.413894717383116 </coordinates> </Point><name>6 PUERTA DEL ANGEL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.684064545714559,
+40.44378894146043 </coordinates> </Point><name>6 REPUBLICA ARGENTINA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.669523455578141,
+40.41506318581949 </coordinates> </Point><name>6 SAINZ DE BARANDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7069010072851825,
+40.38709277398245 </coordinates> </Point><name>6 USERA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.699255078803118,
+40.43837372987501 </coordinates> </Point><name>7A ALONSO CANO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7177043655225064,
+40.47021551543151 </coordinates> </Point><name>7A ANTONIO MACHADO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6410608382789014,
+40.4301975485955 </coordinates> </Point><name>7A ASCAO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7184112591111615,
+40.48009393979854 </coordinates> </Point><name>7A AVDA. DE LA ILUSTRACION</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.676530894264689,
+40.43803147192086 </coordinates> </Point><name>7A AVENIDA DE AMERICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.652004710876878,
+40.4390913221314 </coordinates> </Point><name>7A BARRIO DE LA CONCEPCION</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7048944553030796,
+40.43869984130606 </coordinates> </Point><name>7A CANAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6721577545084036,
+40.43933626219724 </coordinates> </Point><name>7A CARTAGENA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6001566460057197,
+40.433390115428594 </coordinates> </Point><name>7A ESTADIO OLIMPICO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.712392392186851,
+40.45647366576084 </coordinates> </Point><name>7A FRANCOS RODRIGUEZ</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6333103671517417,
+40.4284204389523 </coordinates> </Point><name>7A GARCIA NOBLEJAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6914954990497377,
+40.438249234181846 </coordinates> </Point><name>7A GREGORIO MARAÑON</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.712296977475499,
+40.44632112599101 </coordinates> </Point><name>7A GUZMAN EL BUENO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7137413543146804,
+40.43905997233827 </coordinates> </Point><name>7A ISLAS FILIPINAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7230534484922786,
+40.48501089648855 </coordinates> </Point><name>7A LACOMA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6078871300557416,
+40.43298035455762 </coordinates> </Point><name>7A LAS MUSAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6629736837416154,
+40.4394433512344 </coordinates> </Point><name>7A PARQUE DE LAS AVENIDAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.715830357925139,
+40.475920794508795 </coordinates> </Point><name>7A PEÑAGRANDE</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7258995067914737,
+40.49510106705936 </coordinates> </Point><name>7A PITIS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6428340604203733,
+40.43565618700322 </coordinates> </Point><name>7A PUEBLO NUEVO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6154696062824123,
+40.427985259797985 </coordinates> </Point><name>7A SAN BLAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.625725983210804,
+40.42798425779678 </coordinates> </Point><name>7A SIMANCAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7159837953806902,
+40.46482081014714 </coordinates> </Point><name>7A VALDEZARZA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.569198792073217,
+40.42249256252064 </coordinates> </Point><name>7B BARRIO DEL PUERTO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.561193228398721,
+40.423729905298636 </coordinates> </Point><name>7B COSLADA CENTRAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6001566460057197,
+40.433390115428594 </coordinates> </Point><name>7B ESTADIO OLIMPICO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5271847560338285,
+40.41776380376927 </coordinates> </Point><name>7B HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5345387003640565,
+40.41760391086565 </coordinates> </Point><name>7B HOSPITAL DEL HENARES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.525504191899041,
+40.422951678568836 </coordinates> </Point><name>7B JARAMA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5479311641242512,
+40.42514488006425 </coordinates> </Point><name>7B LA RAMBLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.535417765096221,
+40.42441070943472 </coordinates> </Point><name>7B SAN FERNANDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5695410675308468,
+40.468644167154046 </coordinates> </Point><name>8 AEROPUERTO T1 T2 T3</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.593254085368614,
+40.49175903963612 </coordinates> </Point><name>8 AEROPUERTO T4</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.582531126058038,
+40.475768604419436 </coordinates> </Point><name>8 BARAJAS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6162100520239466,
+40.46389128127541 </coordinates> </Point><name>8 CAMPO DE LAS NACIONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.676832402038624,
+40.456336002823406 </coordinates> </Point><name>8 COLOMBIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.638330913349365,
+40.46938383358384 </coordinates> </Point><name>8 MAR DE CRISTAL</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.692417808921252,
+40.44655001756364 </coordinates> </Point><name>8 NUEVOS MINISTERIOS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6486745747509053,
+40.467992917343715 </coordinates> </Point><name>8 PINAR DEL REY</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6418137462853575,
+40.40522025828109 </coordinates> </Point><name>9A ARTILLEROS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.676471944304738,
+40.43803181689158 </coordinates> </Point><name>9A AVENIDA DE AMERICA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7031700829535565,
+40.47688138899434 </coordinates> </Point><name>9A BARRIO DEL PILAR</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6769501140516168,
+40.45748846408076 </coordinates> </Point><name>9A COLOMBIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6773847300795506,
+40.451440884039954 </coordinates> </Point><name>9A CONCHA ESPINA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.678220651650197,
+40.44426481662303 </coordinates> </Point><name>9A CRUZ DEL RAYO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6791750808454435,
+40.46761952315198 </coordinates> </Point><name>9A DUQUE DE PASTRANA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6617915330011224,
+40.41146804102253 </coordinates> </Point><name>9A ESTRELLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7075223938390494,
+40.484656572327964 </coordinates> </Point><name>9A HERRERA ORIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6785854582722304,
+40.41838874804179 </coordinates> </Point><name>9A IBIZA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.71635730886455,
+40.491088577548204 </coordinates> </Point><name>9A MIRASIERRA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6793753811897774,
+40.43012288608087 </coordinates> </Point><name>9A NUÑEZ DE BALBOA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.709084232835683,
+40.499646860142015 </coordinates> </Point><name>9A PACO DE LUCIA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6351227460093765,
+40.40050941790844 </coordinates> </Point><name>9A PAVONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6758023434199925,
+40.46299966943852 </coordinates> </Point><name>9A PIO XII</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.689135160636755,
+40.46689390477136 </coordinates> </Point><name>9A PLAZA DE CASTILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6802467751336,
+40.42417179978585 </coordinates> </Point><name>9A PRINCIPE DE VERGARA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595982858510145,
+40.40131238195054 </coordinates> </Point><name>9A PUERTA DE ARGANDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6695230984052025,
+40.41502715166562 </coordinates> </Point><name>9A SAINZ DE BARANDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6024040049730175,
+40.40381066236725 </coordinates> </Point><name>9A SAN CIPRIANO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6215666770605437,
+40.40004253874335 </coordinates> </Point><name>9A VALDEBERNARDO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6958849000624356,
+40.46943002884863 </coordinates> </Point><name>9A VENTILLA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6088656317893952,
+40.4042092535065 </coordinates> </Point><name>9A VICALVARO</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.6527397668456545,
+40.41024020995498 </coordinates> </Point><name>9A VINATEROS</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.447526065715983,
+40.30366479038508 </coordinates> </Point><name>9B ARGANDA DEL REY</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.4774526353611823,
+40.31901406572024 </coordinates> </Point><name>9B LA POVEDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.595982858510145,
+40.40131238195054 </coordinates> </Point><name>9B PUERTA DE ARGANDA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.524799759036857,
+40.341341035027426 </coordinates> </Point><name>9B RIVAS FUTURA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.547281479092949,
+40.36676887211379 </coordinates> </Point><name>9B RIVAS URBANIZACIONES</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.5206027411300975,
+40.32836870738169 </coordinates> </Point><name>9B RIVAS VACIAMADRID</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.7092880695812407,
+40.41808735014648 </coordinates> </Point><name>R OPERA</name>
+</Placemark>
+<Placemark> <Point> <coordinates> -3.720328281648544,
+40.42099207336132 </coordinates> </Point><name>R PRINCIPE PIO</name>
+</Placemark>
+        </Folder>
+    </Document>
+</kml>
